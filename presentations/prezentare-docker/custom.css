@@ -1,0 +1,13 @@
+div.slides img {
+  background-color: #FFFFFF;
+}
+
+div#mynetwork, div#tree_network {
+  height: 500px;
+}
+
+img.clean {
+  box-shadow: none !important;
+  border: none !important;
+  background: none !important;
+}
